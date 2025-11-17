@@ -38,7 +38,7 @@ const Header = () => {
                 <ul>
                   <li>
                     <span>
-                      <i className="far fa-mobile"></i>{' '}
+                      <i className="fas fa-mobile-alt"></i>{' '}
                       <a href="tel:+91-9677077990">+91-9677077990</a>
                     </span>
                   </li>
@@ -138,7 +138,7 @@ const Header = () => {
             <div className="nav-menu">
               {/* Navbar Close */}
               <div className="navbar-close">
-                <i className="far fa-times"></i>
+                <i className="fas fa-times"></i>
               </div>
 
               <nav className="main-menu">

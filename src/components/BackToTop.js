@@ -34,7 +34,7 @@ const BackToTop = () => {
       }}
       style={{ display: isVisible ? 'block' : 'none' }}
     >
-      <i className="far fa-angle-up"></i>
+      <i className="fas fa-angle-up"></i>
     </a>
   );
 };

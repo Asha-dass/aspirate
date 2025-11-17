@@ -46,7 +46,7 @@ const Footer = () => {
                 <div className="about-content">
                   <ul>
                     <li>
-                      <i className="far fa-map-marker"></i>
+                      <i className="fas fa-map-marker-alt"></i>
                       <span>
                         Head Office<br />
                         No:31, 2nd floor,<br />
@@ -56,7 +56,7 @@ const Footer = () => {
                       </span>
                     </li>
                     <li>
-                      <i className="far fa-map-marker"></i>
+                      <i className="fas fa-map-marker-alt"></i>
                       <span>
                         Branch Office<br />
                         Rajam Complex, No 7, 2nd Floor,<br />
@@ -66,13 +66,13 @@ const Footer = () => {
                       </span>
                     </li>
                     <li>
-                      <i className="far fa-mobile"></i>
+                      <i className="fas fa-mobile-alt"></i>
                       <span>
                         <a href="tel:+91-9677077990">+91-9677077990</a>
                       </span>
                     </li>
                     <li>
-                      <i className="far fa-user-headset"></i>
+                      <i className="fas fa-headset"></i>
                       Support:{' '}
                       <span>
                         <a href="tel:+91-9677082990">+91-9677082990</a>
